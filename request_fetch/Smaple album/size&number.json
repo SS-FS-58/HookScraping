@@ -1,0 +1,372 @@
+{
+    "BuJians": [
+        {
+            "MingCheng": "封面",
+            "BuJianFenLei": {
+                "DanZhang": false,
+                "XiaoBaoZhuang": false,
+                "LiBaoDuiLian": false,
+                "LiBaoHengPi": false,
+                "LiBaoFuZi": false,
+                "LiBaoHongBao": false,
+                "LiBao": false,
+                "DuiLian": false,
+                "DuiLianHengpi": false,
+                "DuiLianFuZi": false,
+                "FuZi": false,
+                "GuaLiNeiYe": false,
+                "TaiLiNeiYe": false,
+                "TaiLiGongYeBan": false,
+                "TaiLiWaiBiaoZhi": false,
+                "TailiNeiBiaoZhi": false,
+                "MingPian": false,
+                "CaiHe": false,
+                "DangAnDai": false,
+                "DiaoPai": false,
+                "XinFeng": false,
+                "BaoZhi": false,
+                "BianQian": false,
+                "FengTao": false,
+                "BuGanJiao": false,
+                "ShouTiDai": false,
+                "HuaCeFengPi": true,
+                "HuaCeNeiYe": false,
+                "HuaCeFeiYe": false,
+                "HuaCeLaYe": false
+            },
+            "ZhengMianColor": {
+                "ZhuanSe": 7
+            },
+            "FanMianColor": {
+                "ZhuanSe": 7
+            },
+            "ZhiZhang": {
+                "LeiXing": 14,
+                "KeZhong": 102
+            },
+            "Width": {
+                "Value": 370
+            },
+            "Height": {
+                "Value": "260"
+            },
+            "ZiDaiZhi": false,
+            "HouGongCanShu": [],
+            "ShuangDaMianXiangTong": false,
+            "ShuangCeMianXiangTong": false,
+            "HouGong": {
+                "YaHen": {
+                    "YaHenZhe": "",
+                    "Enable": false,
+                    "JiDaoHen": 1
+                },
+                "YiSiXian": {
+                    "JiTiaoXian": 1,
+                    "Enable": false
+                },
+                "DanMianJiTu": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "DanMianTangJin": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "DanMianTangYin": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "FuMo": {
+                    "ShuangMianFuMo": "false",
+                    "FuMoZhongLei": "亮膜",
+                    "Enable": true
+                },
+                "MoQie": {
+                    "Enable": false,
+                    "MoQieZhongLei": ""
+                },
+                "YaWen": {
+                    "Enable": false,
+                    "ShuangMianYaWen": false
+                },
+                "JuBuUV": {
+                    "Enable": false,
+                    "ShuangMian": "",
+                    "UVCaiLiao": "",
+                    "Width": "",
+                    "Height": ""
+                },
+                "KaiTianChuang": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "GuoYou": {
+                    "Enable": false,
+                    "ShuangMianGuoYou": "",
+                    "CaiLiao": ""
+                },
+                "DaHaoMa": {
+                    "Enable": false,
+                    "ShuLiang": 1
+                },
+                "ZheYe": {
+                    "Enable": false,
+                    "ZheFa": ""
+                },
+                "DaKong": {
+                    "Enable": false,
+                    "DaKongShuLiang": 1
+                },
+                "DanMianGuaGuaYin": {
+                    "Enable": false
+                },
+                "HuHe": {
+                    "Enable": false,
+                    "HeXing": ""
+                },
+                "ShouTiSheng": {
+                    "Enable": false,
+                    "CaiLiao": ""
+                },
+                "TiBa": {
+                    "Enable": false
+                },
+                "DaMaoDing": {
+                    "Enable": false
+                },
+                "JiaoTou": {
+                    "Enable": false
+                },
+                "XiaoBaoZhuang": {
+                    "CaiLiao": "",
+                    "Enable": false
+                }
+            },
+            "P": 4,
+            "PinZhong": 1,
+            "ShuLiang": 0,
+            "ZhengFangMianNeiRongXiangTong2": false,
+            "ZhengFangMianNeiRongXiangTong3": false,
+            "ZhengFangMianNeiRongXiangTong4": false,
+            "ZhengFangMianNeiRongXiangTong5": false,
+            "ZhengFangMianNeiRongBuTong": false,
+            "JieDiaoKou": false,
+            "SFYinShua": false,
+            "SFXiangTong": false
+        },
+        {
+            "MingCheng": "内页",
+            "BuJianFenLei": {
+                "DanZhang": false,
+                "XiaoBaoZhuang": false,
+                "LiBaoDuiLian": false,
+                "LiBaoHengPi": false,
+                "LiBaoFuZi": false,
+                "LiBaoHongBao": false,
+                "LiBao": false,
+                "DuiLian": false,
+                "DuiLianHengpi": false,
+                "DuiLianFuZi": false,
+                "FuZi": false,
+                "GuaLiNeiYe": false,
+                "TaiLiNeiYe": false,
+                "TaiLiGongYeBan": false,
+                "TaiLiWaiBiaoZhi": false,
+                "TailiNeiBiaoZhi": false,
+                "MingPian": false,
+                "CaiHe": false,
+                "DangAnDai": false,
+                "DiaoPai": false,
+                "XinFeng": false,
+                "BaoZhi": false,
+                "BianQian": false,
+                "FengTao": false,
+                "BuGanJiao": false,
+                "ShouTiDai": false,
+                "HuaCeFengPi": false,
+                "HuaCeNeiYe": true,
+                "HuaCeFeiYe": false,
+                "HuaCeLaYe": false
+            },
+            "ZhengMianColor": {
+                "ZhuanSe": 7
+            },
+            "FanMianColor": {
+                "ZhuanSe": 7
+            },
+            "ZhiZhang": {
+                "LeiXing": 14,
+                "KeZhong": 111
+            },
+            "Width": {
+                "Value": 370
+            },
+            "Height": {
+                "Value": "260"
+            },
+            "ZiDaiZhi": false,
+            "HouGongCanShu": [],
+            "ShuangDaMianXiangTong": false,
+            "ShuangCeMianXiangTong": false,
+            "HouGong": {
+                "YaHen": {
+                    "YaHenZhe": "",
+                    "Enable": false,
+                    "JiDaoHen": 1
+                },
+                "YiSiXian": {
+                    "JiTiaoXian": 1,
+                    "Enable": false
+                },
+                "DanMianJiTu": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "DanMianTangJin": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "DanMianTangYin": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "FuMo": {
+                    "ShuangMianFuMo": "false",
+                    "FuMoZhongLei": "",
+                    "Enable": false
+                },
+                "MoQie": {
+                    "Enable": false,
+                    "MoQieZhongLei": ""
+                },
+                "YaWen": {
+                    "Enable": false,
+                    "ShuangMianYaWen": false
+                },
+                "JuBuUV": {
+                    "Enable": false,
+                    "ShuangMian": "",
+                    "UVCaiLiao": "",
+                    "Width": "",
+                    "Height": ""
+                },
+                "KaiTianChuang": {
+                    "Enable": false,
+                    "Width": "",
+                    "Height": ""
+                },
+                "GuoYou": {
+                    "Enable": false,
+                    "ShuangMianGuoYou": "",
+                    "CaiLiao": ""
+                },
+                "DaHaoMa": {
+                    "Enable": false,
+                    "ShuLiang": 1
+                },
+                "ZheYe": {
+                    "Enable": false,
+                    "ZheFa": ""
+                },
+                "DaKong": {
+                    "Enable": false,
+                    "DaKongShuLiang": 1
+                },
+                "DanMianGuaGuaYin": {
+                    "Enable": false
+                },
+                "HuHe": {
+                    "Enable": false,
+                    "HeXing": ""
+                },
+                "ShouTiSheng": {
+                    "Enable": false,
+                    "CaiLiao": ""
+                },
+                "TiBa": {
+                    "Enable": false
+                },
+                "DaMaoDing": {
+                    "Enable": false
+                },
+                "JiaoTou": {
+                    "Enable": false
+                },
+                "XiaoBaoZhuang": {
+                    "CaiLiao": "",
+                    "Enable": false
+                }
+            },
+            "P": 16,
+            "PinZhong": 1,
+            "ShuLiang": 0,
+            "ZhengFangMianNeiRongXiangTong2": false,
+            "ZhengFangMianNeiRongXiangTong3": false,
+            "ZhengFangMianNeiRongXiangTong4": false,
+            "ZhengFangMianNeiRongXiangTong5": false,
+            "ZhengFangMianNeiRongBuTong": false,
+            "JieDiaoKou": false,
+            "SFYinShua": false,
+            "SFXiangTong": false
+        }
+    ],
+    "ChanPinFenLei": {
+        "DanZhang": false,
+        "XiaoBaoZhuang": false,
+        "DaLiBao": false,
+        "DuiLian": false,
+        "FuZi": false,
+        "GuaLi": false,
+        "TaiLi": false,
+        "MingPian": false,
+        "CaiHe": false,
+        "DangAnDai": false,
+        "DiaoPai": false,
+        "XinFeng": false,
+        "BaoZhi": false,
+        "BiaoQian": false,
+        "FengTao": false,
+        "BuGanJiao": false,
+        "ShouTiDai": false,
+        "YangBenHuaCe": true,
+        "PVC": false,
+        "WuTanLianDan": false,
+        "DanPinGongSiHeight": "",
+        "DanPinGongSiWidth": "",
+        "ShuangPinGongSiHeight": "",
+        "ShuangPinGongSiWidth": "",
+        "QiMaDing": true
+    },
+    "JiaLeiKou": null,
+    "JiaZheDou": null,
+    "JiaLaYe": null,
+    "ZhuangDingFangShi": "骑马钉",
+    "ChengPinWidth": 185,
+    "ChengPinHeight": 260,
+    "ChengPinHou": 0,
+    "ZheDouLeiXing": "单折兜",
+    "DianBan": false,
+    "QiQiang": 0,
+    "ZhanKaiWidth": 370,
+    "ZhanKaiHeight": "260",
+    "ShuLiang": "1500",
+    "PinZhong": 1,
+    "MeiBenYeShu": 1,
+    "CaiChengPin": true,
+    "ShuangDaMianXiangTong": true,
+    "ShuangCeMianXiangTong": true,
+    "ChuanHuanBian": 0,
+    "ChuanHuanYanSe": "",
+    "ZhiJiaoHouDu": 0,
+    "ZhiJiaWidth": 0,
+    "ZhiJiaHeight": 0,
+    "SheTou": 0,
+    "XinFengYangShi": ""
+}
